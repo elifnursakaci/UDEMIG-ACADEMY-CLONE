@@ -12,4 +12,4 @@
   ## Screenshots
 
   <img src="g1.gif">
-  <img src="g1.gif">
+  <img src="g2.gif">
