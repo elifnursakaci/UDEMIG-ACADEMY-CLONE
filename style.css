@@ -1,0 +1,11 @@
+body::before{
+    display: block;
+    content: '';
+    height: 70px;
+}
+
+#googleMap{
+    width:100%;
+    height:400px;
+    background-color: red;
+}
